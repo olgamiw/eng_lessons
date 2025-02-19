@@ -14,10 +14,10 @@ Use the present perfect form of the verb in brackets + the correct technical ter
 - **use** [juːz]
 - **update** [ʌpˈdeɪt]
 
-1. I __________ (install) the program on my computer.
-2. She __________ (write) a new Python script.
-3. We __________ (use) the new version of the software.
-4. They __________ (update) the website today.
+1. I have installed (install) the program on my computer.
+2. She has written (write) a new Python script.
+3. We have used (use) the new version of the software.
+4. They have updated (update) the website today.
 
 **Answer:**
 
@@ -37,10 +37,10 @@ Fill in the blanks with the correct technical term from the box. Use the present
 - **repository** [rɪˈpɒzɪtəri]
 - **file** [faɪl]
 
-1. I __________ the server on Linux.
-2. She __________ the command in the terminal.
-3. We __________ the file to the cloud storage.
-4. They __________ the repository on GitHub.
+1. I have set up the server on Linux.
+2. She has entered the command in the terminal.
+3. We have uploaded the file to the cloud storage.
+4. They have cloned the repository on GitHub.
 
 **Answer:**
 
@@ -55,8 +55,8 @@ Fill in the blanks with the correct technical term from the box. Use the present
 Each sentence has one mistake in grammar or terminology. Correct both errors.
 
 1. She has installed a new package yesterday.
-2. We have write the script this morning.
-3. The team has update the software now.
+2. We have written the script this morning.
+3. The team has updated the software now.
 4. I have opened a file in the terminal.
 
 **Answer:**
@@ -73,10 +73,10 @@ Match the Linux command/term to its correct description.
 
 | **Term**              | **Description**                                   |
 |-----------------------|---------------------------------------------------|
-| **chmod** [ʧɒmd]      | a. Copy files or directories.                    |
+| **chmod** [ʧɒmd]      | c. Change file permissions.                     |
 | **ls** [ɛl ɛs]        | b. List files in a directory.                    |
-| **sudo** [ˈsuːdəʊ]    | c. Change file permissions.                      |
-| **cp** [siː piː]      | d. Run a command with admin privileges.          |
+| **sudo** [ˈsuːdəʊ]    |d. Run a command with admin privileges.         |
+| **cp** [siː piː]      |a. Copy files or directories.          |
 
 **Answer:**
 
